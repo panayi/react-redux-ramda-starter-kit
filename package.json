@@ -1,5 +1,5 @@
 {
-  "name": "react-starter-ki",
+  "name": "react-redux-ramda-starter-ki",
   "version": "0.0.1",
   "description": "Using React, Redux and Ramda",
   "main": "index.js",
