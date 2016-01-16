@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
 import { connect } from 'react-redux'
 
 export class Index extends Component {
@@ -7,7 +7,7 @@ export class Index extends Component {
 
   render() {
     return (
-      <div></div>
+      <div>Hello world</div>
     )
   }
 }
